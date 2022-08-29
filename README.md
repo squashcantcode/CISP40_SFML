@@ -1,0 +1,2 @@
+# CISP40_SFML
+.vs*
